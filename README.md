@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi</h1>
-<h3 align="center">A passionate Data Scientist with master's in Business datascience</h3>
+<h3 align="center">A passionate Data Scientist with a master’s in Business Data Science, skilled in transforming complex data into compelling stories and actionable insights, driving problem-solving and strategic decision-making</h3>
 
 - 📫 How to reach me **krpetesh@msu.edu**
 
